@@ -4,7 +4,7 @@ This is a slightly customized version of the "PhoenixBlue" Wordpress theme, an a
 
 This theme is probably most recognizable for its longtime use on "one of the most popular language sites on the Internet", Language Log (the [quote is from per Wikipedia](https://en.wikipedia.org/wiki/Language_Log)).
 
-If you have used any recent Wordpress versions, you might have noticed that the searchable theme selection lacks truly classic style themes.  This is a great classic theme.  Tt is added here so that it can be used where basic, usable Wordpress theming is needed.
+If you have used any recent Wordpress versions, you might have noticed that the searchable theme selection lacks truly classic style themes.  This is a great classic theme.  It is added here so that it can be used where basic, usable Wordpress theming is needed.
 
 There is a small amount of customization built in for simplicity integrating custom newsfeed shortcodes [from a Wordpress plugin in another repo](https://github.com/danwolff/wordpress_newsfeed_tokens_with_username).
 
@@ -14,7 +14,7 @@ The header and sidebar are slightly updated, e.g. to use custom shortcodes for t
 
 # Original source
 
-The base for this theme was found available online in a couple of versions.  Some links appear offline, so took a little link traversal to locate.  Linking best as possible:
+The base for this theme was found available online in a couple of versions.  Some links appear offline, so it took a little link traversal to locate the public source.  Linking best as possible, here are some references:
 
 - Canonical original link: [http://www.mikeschepker.com/wordpress/phoenixblu.zip](http://www.mikeschepker.com/wordpress/phoenixblu.zip) [offline]
 - Offline page: [http://mikeschepker.com/wordpress/phoenixblue-wordpress-theme/](http://mikeschepker.com/wordpress/phoenixblue-wordpress-theme/) [offline]
