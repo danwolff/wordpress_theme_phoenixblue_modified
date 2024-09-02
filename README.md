@@ -2,7 +2,7 @@
 
 This is a slightly customized version of the "PhoenixBlue" Wordpress theme, an awesome old-school Wordpress theme.
 
-This theme is probably most recognizable for its longtime use on "one of the most popular language sites on the Internet", Language Log ([quote from per Wikipedia](https://en.wikipedia.org/wiki/Language_Log).
+This theme is probably most recognizable for its longtime use on "one of the most popular language sites on the Internet", Language Log (the [quote is from per Wikipedia](https://en.wikipedia.org/wiki/Language_Log)).
 
 If you have used any recent Wordpress versions, you might have noticed that the searchable theme selection lacks truly classic style themes.  This is a great classic theme.  Tt is added here so that it can be used where basic, usable Wordpress theming is needed.
 
